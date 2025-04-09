@@ -11,4 +11,3 @@ pinned: false
 
 This is my 1st Langgraph project.  
 In this project, I have created an agent based on Agentic RAG that can answer all questions related to the stock market.
-xiuhfcbsfcsjkcscsckcjkc
